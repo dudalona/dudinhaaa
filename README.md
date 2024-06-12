@@ -13,4 +13,5 @@ Meu nome é Maria Eduarda
 @dudalona
 
 
-![.](https://tenor.com/pt-BR/view/kisses-blowing-blow-kiss-flying-kiss-cute-gif-16782708)
+![](link)
+
